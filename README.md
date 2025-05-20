@@ -24,4 +24,4 @@ Navigation mode will load the page from the beginning and will record performanc
 - make the images load faster to speed up the pages
 - reduce the amount of code running at once
 
-![Tests Passed](screenshots/TestsPassed.png)
+![Tests Passed](TestsPassed.png)
